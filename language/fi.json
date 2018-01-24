@@ -189,8 +189,8 @@
           "default": "Lisenssi"
         },
         {
-          "label": "\"Vie tekstiä\"-painikkeessa näytettävä teksti",
-          "default": "Vie tekstiä"
+          "label": "\"Tallenna muistiinpanot\"-painikkeessa näytettävä teksti",
+          "default": "Tallenna muistiinpanot"
         },
         {
           "label": "Teksti Käyttöehdot-painikkeelle",
